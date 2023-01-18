@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi
 
 - 🔭 I’m currently working on React / JavaScript
 - 🌱 I’m currently learning TypeScript
