@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on React / JavaScript
 - 🌱 I’m currently learning TypeScript
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAdrien-A)](https://github.com/AAdrien-A/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAdrien-A)](https://github.com/AAdrien-A/github-readme-stats) -->
 
 <!--
 **AAdrien-A/AAdrien-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
